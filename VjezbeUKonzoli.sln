@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ostatak3i5", "Ostatak3i5\Os
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brzina", "Brzina\Brzina.csproj", "{8429557F-933D-4435-B361-6E0B51E76F41}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kvadratna", "Kvadratna\Kvadratna.csproj", "{D8B258E6-1E39-465A-A41D-20413F034999}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{8429557F-933D-4435-B361-6E0B51E76F41}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8429557F-933D-4435-B361-6E0B51E76F41}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8429557F-933D-4435-B361-6E0B51E76F41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8B258E6-1E39-465A-A41D-20413F034999}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8B258E6-1E39-465A-A41D-20413F034999}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8B258E6-1E39-465A-A41D-20413F034999}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8B258E6-1E39-465A-A41D-20413F034999}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
