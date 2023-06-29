@@ -50,48 +50,10 @@ namespace RecenicaStringVjezba
                 Console.WriteLine($"Pocetna pozicija rijeci {rijec} je na {pocetnaPozicija}");
                 Console.WriteLine("\n");
 
+                ///////////////////////////////////////////////////////////
                 Console.WriteLine("Zamjena suglasnika za samoglasnike");
 
-                switch (1)
-                {
-                    case 'a':
-                        {
-                            Console.WriteLine("Samoglasnik");
-                            Console.ReadLine();
-                        }
-                        break;
-                    case 'o':
-                        {
-                            Console.WriteLine("Samoglasnik");
-                            Console.ReadLine();
-                        }
-                        break;
-                    case 'e':
-                        {
-                            Console.WriteLine("Samoglasnik");
-                            Console.ReadLine();
-
-                        }
-                        break;
-                    case 'u':
-                        {
-                            Console.WriteLine("Samoglasnik");
-                            Console.ReadLine();
-                        }
-                        break;
-                    case 'i':
-                        {
-                            Console.WriteLine("Samoglasnik");
-                            Console.ReadLine();
-                        }
-
-                        break;
-                    default:
-                        Console.WriteLine("Suglasnik");
-                        Console.ReadLine();
-                        break;
-                }
-
+         
                 Console.ReadLine();
 
             }
