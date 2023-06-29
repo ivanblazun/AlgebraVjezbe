@@ -28,10 +28,7 @@ namespace RecenicaStringVjezba
                 int duzinaRecenice = recenica.Length - 1;
                 int trecinaRecenice = (recenica.Length - 1) / 3;
                 int dvijeTrecine = (trecinaRecenice * 2) - 1;
-
-                char umjestA = 'b', umjestE = 'c', ujestI = 'd', umjestO = 'f', umjestoU = 'g';     
-
-
+                               
                 Console.WriteLine("Ispis recenice Velika/Mala/Velika");
                 Console.WriteLine("\n");
                 Console.WriteLine(recenica.Substring(0, (duzinaRecenice + 1) / 3).ToUpper() +
@@ -43,17 +40,21 @@ namespace RecenicaStringVjezba
                         );
                 Console.WriteLine("Upisite rijec iz recenice, dobit cete poziciju te rijeci");
                 Console.WriteLine("\n");
-                rijec= Console.ReadLine();
+                rijec = Console.ReadLine().TrimEnd();
 
                 int pocetnaPozicija = recenica.IndexOf(rijec[0]);
-          
+
                 Console.WriteLine($"Pocetna pozicija rijeci {rijec} je na {pocetnaPozicija}");
                 Console.WriteLine("\n");
 
-                ///////////////////////////////////////////////////////////
-                Console.WriteLine("Zamjena suglasnika za samoglasnike");
+                Console.WriteLine("Zamjena suglasnika za samoglasnike, unesite samoglasnike");
+                char umjestoA = Convert.ToChar(Console.ReadLine().ToLower());
 
-         
+                string novaRecenica = recenica.Replace('a', umjestoA);
+                Console.WriteLine($"Nova recenica je: " + novaRecenica);
+                Console.WriteLine("\n");
+
+
                 Console.ReadLine();
 
             }
