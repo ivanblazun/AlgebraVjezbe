@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch2_Samoglasnici", "Swi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecenicaStringVjezba", "RecenicaStringVjezba\RecenicaStringVjezba.csproj", "{985FA72B-8726-43B8-A38D-833839435851}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nizovi", "Nizovi\Nizovi.csproj", "{2B1468CA-956C-4303-8E05-C0F4FEBC82AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{985FA72B-8726-43B8-A38D-833839435851}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{985FA72B-8726-43B8-A38D-833839435851}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{985FA72B-8726-43B8-A38D-833839435851}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B1468CA-956C-4303-8E05-C0F4FEBC82AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B1468CA-956C-4303-8E05-C0F4FEBC82AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B1468CA-956C-4303-8E05-C0F4FEBC82AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B1468CA-956C-4303-8E05-C0F4FEBC82AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
