@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecenicaStringVjezba", "Rec
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nizovi", "Nizovi\Nizovi.csproj", "{2B1468CA-956C-4303-8E05-C0F4FEBC82AA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiramidaFor", "PiramidaFor\PiramidaFor.csproj", "{6DD24272-5835-48FC-A60E-2445AFDD1B26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "100PrirodnihFor", "100PrirodnihFor\100PrirodnihFor.csproj", "{41F5EE08-FC5E-4CA7-813C-59C55603B87B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{2B1468CA-956C-4303-8E05-C0F4FEBC82AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B1468CA-956C-4303-8E05-C0F4FEBC82AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B1468CA-956C-4303-8E05-C0F4FEBC82AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DD24272-5835-48FC-A60E-2445AFDD1B26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DD24272-5835-48FC-A60E-2445AFDD1B26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DD24272-5835-48FC-A60E-2445AFDD1B26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DD24272-5835-48FC-A60E-2445AFDD1B26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41F5EE08-FC5E-4CA7-813C-59C55603B87B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41F5EE08-FC5E-4CA7-813C-59C55603B87B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41F5EE08-FC5E-4CA7-813C-59C55603B87B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41F5EE08-FC5E-4CA7-813C-59C55603B87B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
