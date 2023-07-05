@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "100PrirodnihFor", "100Priro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IzracunBrojevaKrozMetodeIPetlje", "IzracunBrojevaKrozMetodeIPetlje\IzracunBrojevaKrozMetodeIPetlje.csproj", "{CEE83A86-7EBF-4E6A-8999-B1F08AFF458B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IspisNeparnihBrojeva", "IspisNeparnihBrojeva\IspisNeparnihBrojeva.csproj", "{87F83B8D-A8E5-43CC-8D37-99CFABA1DFEA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{CEE83A86-7EBF-4E6A-8999-B1F08AFF458B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CEE83A86-7EBF-4E6A-8999-B1F08AFF458B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CEE83A86-7EBF-4E6A-8999-B1F08AFF458B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87F83B8D-A8E5-43CC-8D37-99CFABA1DFEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87F83B8D-A8E5-43CC-8D37-99CFABA1DFEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87F83B8D-A8E5-43CC-8D37-99CFABA1DFEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87F83B8D-A8E5-43CC-8D37-99CFABA1DFEA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
