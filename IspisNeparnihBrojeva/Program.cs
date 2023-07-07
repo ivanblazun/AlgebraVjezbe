@@ -17,7 +17,7 @@ namespace IspisNeparnihBrojeva
             int pocetniUnos = UnosBroja(nizBrojeviBrojac);
             Console.WriteLine(pocetniUnos);
             int zadnjiUnos = UnosBroja(nizBrojeviBrojac);
-            Console.WriteLine();
+            Console.WriteLine(zadnjiUnos);
             //IspisIntervala(brojevi);
 
             Console.ReadLine();

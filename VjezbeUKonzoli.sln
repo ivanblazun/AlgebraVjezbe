@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IzracunBrojevaKrozMetodeIPe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IspisNeparnihBrojeva", "IspisNeparnihBrojeva\IspisNeparnihBrojeva.csproj", "{87F83B8D-A8E5-43CC-8D37-99CFABA1DFEA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enkapsulacija", "Enkapsulacija\Enkapsulacija.csproj", "{A6EE858A-DE75-4CD9-9334-7B21FE5B302C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{87F83B8D-A8E5-43CC-8D37-99CFABA1DFEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87F83B8D-A8E5-43CC-8D37-99CFABA1DFEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87F83B8D-A8E5-43CC-8D37-99CFABA1DFEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6EE858A-DE75-4CD9-9334-7B21FE5B302C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6EE858A-DE75-4CD9-9334-7B21FE5B302C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6EE858A-DE75-4CD9-9334-7B21FE5B302C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6EE858A-DE75-4CD9-9334-7B21FE5B302C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
